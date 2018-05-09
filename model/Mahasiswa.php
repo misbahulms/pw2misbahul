@@ -1,6 +1,6 @@
 <?php 
 	namespace Model;
-	class Mahasiswa
+	class Mahasiswa extends Model
 	{
 		public $nim;
 		public $ipk;
@@ -12,6 +12,6 @@
 	}
 
 
-		Mahasiswa extends Model()
+
 
  ?>
