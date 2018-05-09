@@ -1,4 +1,5 @@
 <?php 
+	namespace Model;
 	class Mahasiswa
 	{
 		public $nim;
@@ -9,6 +10,7 @@
 			echo "Halo saya sisfo";
 		}
 	}
+
 
 		Mahasiswa extends Model()
 
