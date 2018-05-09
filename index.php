@@ -1,3 +1,0 @@
-<?php 
-	echo "Percobaan Saja";
- ?>
