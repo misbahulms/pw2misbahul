@@ -8,6 +8,8 @@
 	$v = new View();
 	$v->render();
 
+	echo "<br>";
+
 	$z = new \src\Mahasiswa();
 	$z->test();
  ?>
