@@ -8,8 +8,11 @@
 	$v = new View();
 	$v->render();
 
-	echo "<br>";
+	/*echo "<br>";
 
 	$z = new \src\Mahasiswa();
-	$z->test();
+	$z->test();*/
+
+	\model\Mahasiswa::munculkanNama();
+
  ?>
